@@ -1,0 +1,256 @@
+web developer = front end = lang = html, css, javasctript = html, css is very important
+14 episode, html css basic
+back end php, python, asp.net
+
+front= color of home نشانه گذاری
+
+back = basic home برنامه نویسی 
+
+
+
+html text, photo, video
+css for beutifull site
+
+javascript for moving site پویایی سایت
+search is important way for developer 
+
+code editor = notepad
+for play code use = browser = chrome
+
+html tag  
+tag big = <ali>  </ali> = روی محتوا تاثیر دارد
+tag small = <ali/>
+seo = مببحث 
+seo = search engine optimazation
+tag is important for seo
+seo = site speed, use best tags, data struchere, updating site = money
+100 kilobyte > 3 mb for google resualt
+seo = gtmetrix.com
+
+how i create site?
+
+domain name site
+host place for home site
+
+work 
+freelancer or ...
+
+
+nokte = space 1+ = x 
+enter = x
+
+مقوله صفات 
+تگ ها میتونن صفات رو قبول کنن
+ 
+ 
+ تگ های تیترکذاری = موضوع
+ 
+ h1... h6 = long tag
+ text tags
+ 
+ p = long tag
+ pre = long tag = text, like "p" tag, but more space and enter are showen
+ hr = small tag = one enter + خط ممتد
+ br = small tag = one enter 
+ b = long tag = bold 
+ strong = long tag = bold = google important for strong
+ i = long tag = kaj = italic
+ em = long tag = kaj = italic = takid darad = google 
+ sub = long tag = matn riz paeen
+ sup = long tag = matn riz bala 
+ del = long tag = pak shodan
+ ins = long tag = jaegozin kardan baraye del = baraye offer
+ small = long tag = matn riz
+
+
+blckquote = matn nql qoul
+q = naql aoul kotah
+abbr moarfi klmat mokhtasar
+address = etelat ertebati yek shaks
+cite = nam asar honari 
+
+comment = <!-- hello -->
+
+mabhas adress dehi
+
+adress = dakheli = ../
+khareji = https
+
+tag link, a = long
+tag a = sefat = target="", href=""
+target = self, blank
+self: dar safhe 
+blank: yek safe jadid baz mikonad
+
+href="../../" = bargasht
+
+tag img = short = <img src=""/> = sefat = width = arz, heigth = ertefa = alt = seo
+
+
+tag table = table = long = tr = th = td tr = afzodan radif th = asami anavin td = maghadir 
+table row, table head, table data.
+
+
+tag list = list rotbe bandi = ol list rotbebandi x = ul
+
+
+tag form = long = action = adress bayad ersal beshe, method = nahve ersal
+tag input = short = tall, text number
+tag label = long
+select = long
+
+tags = block or inline
+block = tagi ke kol satr ra eshghal mikonad 
+inline = taghi ke be andaze mohtava faza eshghal mikonad
+
+
+
+css = selector = eleman = tag, class, id
+
+id = special name for tag
+
+<p> id="n1" salam</p>
+#n1
+{
+sefats
+}
+
+class for group edit = <p class="m1"></p> <p class="m1"></p>
+
+
+css nevisi = dakhel file khas mesl .css
+dakhel html, tag style, dakhel khod tag sefat style
+
+tag head = tag = short = link 
+for color css = hex or name = hex = #red 00 green 00 blue 00 = #000000
+
+tag = hamzan = tag, class
+sefat css = hashie gozari, border = short hand, one hand
+
+one hand:
+
+border_width:1px, ..., 5px;
+border_style:solid or dashed or dotted
+border_color:hex or n colors
+
+short hand:
+
+border: 2px, solid, blue;
+border-left or bottom or top or right;
+
+nokte: 
+<p> rang blue </p>
+<h3> rang blue </h3>
+<h4 id="t2"> rang blue </h4>
+p,h3,#t2{
+ color:blue;
+}
+
+sefat background 
+color = background-color
+photo = background-image:url("adress image")
+background-image or reapet or position or attachment or size
+
+tamrin = background-size biad roi site
+
+tag div = long tag, bakhbandi ghesmat hai site 
+dir = rtl or ltr
+
+header = sabet = div
+slider = div
+content
+footer = sabet 
+
+
+id css = # dar style.css
+nokte 2:
+
+css sefat = margin, padding
+margin = fasele tag nesbat be tag hai bironi, margin-left,right,button,top
+padding = fasele nesbat be labe hai khodesh
+text = color, text, align 
+
+padding = fasele nade = box-sizing:border-box:
+dar css = width, height, cntrol mishvad
+css text = 
+text-align:justify-content;
+text-decoration:
+text-transform:
+text-indent:2px;
+text-shadow:2px 3px 5px red;
+foot= 
+font-family: mon;
+tarif font = format: ttf, eot, woff, woff2
+tarif font = 
+@font-face
+{
+font-family:m1;
+src: url("nazanin.ttf") format("truetype"),
+    url("nazanin.eot") format("eot"),
+    url("nazanin.woff") format("woff"),
+    url("nazanin.woff2") format("woff2"),
+}
+*, body*{
+    font-family: "mon";
+}
+
+font-weight: normal, bold, italic, underline
+font-size:20
+
+display=block, inline, inline-block, none
+
+sefat = position
+static                                                            
+relativ
+obsolvte
+fixed
+sticky = تحقیق و کد رو اجرا کنن
+
+presiger = click konad etefaghi mioftad
+div:hover{
+
+}
+dar tamrin baiad box tol arz sade 1000 khat + hover rosh click beshe bozorg beshe
+link baraye kharid
+border-radius:10px
+hover = kharid trantion + rang paszamine tire she
+
+
+d1{
+Z_index:3;
+}
+d2{
+Z_index:2:
+}
+
+
+tag seda va video
+
+<audio src="#" controls></audio>
+
+tamrin = bedon position
+
+
+dore advance webdeveloper
+
+responsive = bootsrtap, dar har ja site betone enetaf dashte bashad
+framework = python > django, php > laravel, js > vue, react
+
+javascript = control site, abfuse site 
+js =! java
+
+eleman hai zibaee bootsrtap
+
+grid in bootstrap = arz safe namayesh arz/12  
+
+for use grid = classs, name: col_*
+* = 1-12, col_*_*
+
+container = class, bootsrtap
+
+size safhe bootsrtap = sm, md, lg, xl, xll
+sm = mobile
+md = tablet 
+lg = laptop
+xl = safhe bozorg
+xxl = kehili bozorg
